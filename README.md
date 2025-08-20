@@ -10,10 +10,8 @@ Looking ahead to this school year, my goals are to learn/obtain new information 
 
 
 ## My Playlist 
- [This is my playlist](https://open.spotify.com/playlist/1iphYNf9hnLD9PI57hFInQ?si=cKemJcK-Q0aV1CiHcqvgoA&pi=YHyt6NT9S5GyK)
+ [This is my playlist!](https://open.spotify.com/playlist/1iphYNf9hnLD9PI57hFInQ?si=cKemJcK-Q0aV1CiHcqvgoA&pi=YHyt6NT9S5GyK)
 
 ## My Collage / Mood Board
 
-![my collage] (collage.png)![alt text][def]
-
-[def]: <Untitled design.jpg>
+![my collage](<Untitled design-1.jpg>)e.png)!
