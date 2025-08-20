@@ -14,4 +14,4 @@ Looking ahead to this school year, my goals are to learn/obtain new information 
 
 ## My Collage / Mood Board
 
-![my collage](<Untitled design-1.jpg>)e.png)!
+![my collage](<Untitled design-1.jpg>)
